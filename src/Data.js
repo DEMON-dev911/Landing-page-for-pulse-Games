@@ -8,27 +8,45 @@ const data = [
   },
   {
     id: 2,
-    name: "Galaxy",
-    description: "A stunning galaxy",
-    link: "https://www.youtube.com/"
+    name: "Coming Soon",
+    description: "Coming Soon",
+    link: "https://pulse-game-sandbox.vercel.app/"
   },
   {
     id: 3,
-    name: "Nebula",
-    description: "A colorful nebula",
-    link: "https://www.google.com/"
+    name: "Coming Soon",
+    description: "Coming Soon",
+    link: "https://pulse-game-sandbox.vercel.app/"
   },
   {
     id: 4,
-    name: "Supernova",
-    description: "A powerful supernova",
-    link: "https://www.facebook.com/"
+    name: "Coming Soon",
+    description: "Coming Soon",
+    link: "https://pulse-game-sandbox.vercel.app/"
   },
   {
     id: 5,
-    name: "Black Hole",
-    description: "A mysterious black hole",
-    link: "https://www.instagram.com/"
+    name: "Coming Soon",
+    description: "Coming Soon",
+    link: "https://pulse-game-sandbox.vercel.app/"
+  },
+  {
+    id: 6,
+    name: "Coming Soon",
+    description: "Coming Soon",
+    link: "https://pulse-game-sandbox.vercel.app/"
+  },
+  {
+    id: 7,
+    name: "Coming Soon",
+    description: "Coming Soon",
+    link: "https://pulse-game-sandbox.vercel.app/"
+  },
+  {
+    id: 8,
+    name: "Coming Soon",
+    description: "Coming Soon",
+    link: "https://pulse-game-sandbox.vercel.app/"
   }
 ];
 

@@ -31,7 +31,7 @@ function App() {
               window.open(item.link, "_blank");
             }}
           >
-            <img className={imgStyle} src={item.image || "testing.png"} alt={item.name} />
+            <img className={imgStyle} src={item.image || "pulse-games.png"} alt={item.name} />
             <h2 className={textStyle}>{item.name}</h2>
           </div>
         );

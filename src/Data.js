@@ -3,7 +3,8 @@ const data = [
     id: 1,
     name: "Cosmic Strike",
     description: "cosmicstrike",
-    link: "https://cosmicstrike.vercel.app/"
+    link: "https://cosmicstrike.vercel.app/",
+    iconImg: "/cosmicStrike.png"
   },
   {
     id: 2,

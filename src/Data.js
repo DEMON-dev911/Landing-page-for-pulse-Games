@@ -1,9 +1,9 @@
 const data = [
   {
     id: 1,
-    name: "Shooting Star",
-    description: "A beautiful shooting star",
-    link: "https://tailwindcss.com/docs/responsive-design#overview"
+    name: "Cosmic Strike",
+    description: "cosmicstrike",
+    link: "https://cosmicstrike.vercel.app/"
   },
   {
     id: 2,
